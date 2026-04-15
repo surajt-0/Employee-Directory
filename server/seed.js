@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const Employee = require("./models/Employee");
 
-const MONGO_URI = "mongodb+srv://surajuser07_db_user:suraj%40mongodb@cluster01.jhi3rpe.mongodb.net/employees?retryWrites=true&w=majority";
+const MONGO_URI = "mongodb+srv://surajuser07_db_user:suraj%40mongodb@cluster0.kimpkfr.mongodb.net/employees?retryWrites=true&w=majority";
 
 const employees =
 [
